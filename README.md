@@ -6,9 +6,13 @@
   
 > O desafio foi desenvolver a página inicial de um site de avaliação de filmes (IMDB - Internet Movies Database) utilizando apenas **HTML5** e **CSS3**.
 
-## Preview:
+### Preview:
 
 > **Live Demo:**
 > 👉 [IMDB Renato](https://renatomarquesteles.github.io/codenation-movies-html-challenge/public/)
 
 <img src="./.github/preview.png" alt="Preview" />
+
+### Instalação
+1. Clone este repositório em uma pasta qualquer
+2. Abra o arquivo `public/index.html`
