@@ -330,3 +330,50 @@ body {
 .filme-nota i:hover {
   color: #e74c3c;
 }
+
+.rodape {
+  background-color: #fff;
+  color: #bababa;
+  padding: 20px 0;
+  text-align: center;
+  width: 100%;
+}
+
+.rodape .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.rodape-lista {
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+
+.rodape-lista-item {
+  margin: 0 20px;
+}
+
+.rodape-lista-item:last-child {
+  margin-right: 0;
+}
+
+.rodape-lista-item a {
+  font-size: 2.5em;
+  color: #bababa;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+}
+
+.icone-twitter a:hover {
+  color: #55acee;
+}
+
+.icone-facebook a:hover {
+  color: #3b5998;
+}
+
+.icone-instagram a:hover {
+  color: #e95950;
+}
